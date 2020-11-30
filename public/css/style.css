@@ -1,0 +1,12 @@
+.jumbotron {
+    background-image: url(../image/laravel.png);
+    background-size: cover;
+    height: 460px;
+    margin-top:-115px;
+}
+
+.card-horizontal {
+    display: flex;
+    flex: 1 1 auto;
+}
+
